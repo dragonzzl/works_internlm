@@ -8,8 +8,8 @@
 **环境准备**  
 进入 conda 环境之后，使用以下命令从本地克隆一个已有的 pytorch 2.0.1 的环境  
 ```
-	bash # 请每次使用 jupyter lab 打开终端时务必先执行 bash 命令进入 bash 中  
-	/root/share/install_conda_env_internlm_base.sh internlm-demo
+bash # 请每次使用 jupyter lab 打开终端时务必先执行 bash 命令进入 bash 中  
+/root/share/install_conda_env_internlm_base.sh internlm-demo
 ```
 然后使用以下命令激活环境  
 	```conda activate internlm-demo```
