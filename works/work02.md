@@ -57,6 +57,7 @@ InternStudio 平台的 share 目录下已经为我们准备了全系列的 Inter
 	ssh -CNg -L 6006:127.0.0.1:6006 root@ssh.intern-ai.org.cn -p 33090
 具体使用起来，图文并茂创作速度比较慢，多模态对话会出现幻觉问题（比如认为图片中有篮球，实际上没有）
 ### 5. 作业截图
+![image](https://github.com/dragonzzl/works_internlm/blob/main/pic/2-01.jpg)
 
 
 
